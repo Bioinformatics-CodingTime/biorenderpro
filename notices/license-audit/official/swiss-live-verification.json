@@ -1,0 +1,162 @@
+[
+  {
+    "path": "icons/expanded/swissbiopics/Animal_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Animal_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Apicomplexa_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Apicomplexa_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Archaea_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Archaea_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria1M_clubrod.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria1M_clubrod.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria1M_coccus.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria1M_coccus.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria1M_diplococci.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria1M_diplococci.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria1M_filamentous.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria1M_filamentous.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria1M_rod.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria1M_rod.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria1M_tetrad.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria1M_tetrad.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria1Mplus_rod.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria1Mplus_rod.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria2M_Nostoc.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria2M_Nostoc.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria2M_coccus.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria2M_coccus.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria2M_comma.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria2M_comma.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria2M_rod.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria2M_rod.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria2M_rodtococcus.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria2M_rodtococcus.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria2M_spiral.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria2M_spiral.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Bacteria2M_trichormus.svg",
+    "url": "https://www.swissbiopics.org/api/image/Bacteria2M_trichormus.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Chlamydomona_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Chlamydomona_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Cnidocyte_cell.svg",
+    "url": "https://www.swissbiopics.org/api/image/Cnidocyte_cell.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Egg_cell.svg",
+    "url": "https://www.swissbiopics.org/api/image/Egg_cell.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Epithelial_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Epithelial_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Eukaryota_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Eukaryota_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Fungal_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Fungal_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Mollicutes_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Mollicutes_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Muscle_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Muscle_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Neuron_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Neuron_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Photoreceptor_cell.svg",
+    "url": "https://www.swissbiopics.org/api/image/Photoreceptor_cell.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Plant_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Plant_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Pombe_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Pombe_cells.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Spermatozoa_cell.svg",
+    "url": "https://www.swissbiopics.org/api/image/Spermatozoa_cell.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Trypanosoma.svg",
+    "url": "https://www.swissbiopics.org/api/image/Trypanosoma.svg",
+    "identical": true
+  },
+  {
+    "path": "icons/expanded/swissbiopics/Yeast_cells.svg",
+    "url": "https://www.swissbiopics.org/api/image/Yeast_cells.svg",
+    "identical": true
+  }
+]

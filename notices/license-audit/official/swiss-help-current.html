@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="en">
+            <head>
+                <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+                <meta name="google-site-verification" content="-GjADdGufUj2RvtN_FzW0TT6qEOzbbviJr_gSWECz8o"/>
+                <meta name="author" content="Philippe Le Mercier (content, images), Jerven Bolleman (software: API/web-component), Edouard de Castro (software: editor/website+js)"/>
+                <meta name="description" content="A resource to provide (sub)cellular (location) pictures"/>
+                <meta name="keywords" content="cell, organelles, biology, uniprotkb"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                <title>Help ~ SwissBioPics</title>
+                <link rel="shortcut icon" href="/resources/images/favicon_sib.ico"/>
+                <link href="/resources/css/biopicszone.css" rel="stylesheet" type="text/css"/>
+                <script src="/resources/js/zone.js"></script>
+                <script src="/resources/js/cellzone.js"></script>
+                <script src="/resources/js/matomo-sbp-tracking.js"></script>
+                <script src="https://matomo.sib.swiss/matomo.js" defer="defer"></script>
+            </head>
+            <body id="taball" vocab="http://schema.org/" typeof="WebPage">
+
+                <div id="container">
+
+                <div id="header">
+                    <div id="h1">
+                        <a href="/"><img alt="SwissBioPics" src="/resources/images/swiss_bio_pics_logo.png"/></a>
+                        <a href="/" id="sitename">SwissBioPics</a>
+                        <div id="search">
+                            <form action="/search" method="get" property="potentialAction" typeof="SearchAction">
+                                <a href="/doc/search" target="_blank" rel="noopener"><img alt="search help" src="/resources/images/qm.png"/></a>
+                                <input class="suggest" data-suggest-path="/search/suggest" type="text" name="query" size="24" value="" placeholder="e.g.: cyanelle / SL-0173 / spindle OR body / bact* / rhoptri~"/>
+                                <input type="submit" value="search"/>
+                            </form>
+                        </div>
+                    </div>
+
+                    <div id="menu">
+                        <a href="/help">Help</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a title="Contact Us" href="/contact">Contact Us</a>
+                    </div>
+
+                    <div id="h2">
+                        <a href="https://www.sib.swiss" id="sib_link" title="SIB Swiss Institute of Bioinformatics"><img alt="SIB" src="/resources/images/sib_logo_small.png"/></a>
+                    </div>
+                    <div id="announce"></div>
+                </div>
+
+                <div id="tab_bar">
+                </div>
+
+                <div class="page">
+                    <div class="side"></div>
+                    <div class="core" id="core">
+                        <div property="mainEntity" typeof="CreativeWork">
+            
+            <div id="wiki"><h3 id="What_is_SwissBioPics_">What is SwissBioPics?</h3>
+
+<p>SwissBioPics is a freely available library of interactive biological images for visualizing subcellular location data. It includes cell types from all kingdoms of life - from muscle, neuronal and epithelial cells of animals to rods, cocci, clubs, spirals and other more exotic forms of bacteria and archaea.</p>
+
+<p><ins>Cite us:</ins> SwissBioPics - an interactive library of cell images for the visualization of subcellular location data (PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/35411389/">35411389</a>, DOI:<a href="https://doi.org/10.1093/database/baac026">10.1093/database/baac026</a>)</p>
+
+<h3 id="How_can_I_use_SwissBioPics_">How can I use SwissBioPics?</h3>
+
+<p>You can browse and explore the images on this website, but the real purpose of the SwissBioPics library is to visualize information about the subcellular location of a particular gene product. For this, we provide a reusable web component and an API that allows developers to do this on their own websites. The web component uses the API to automatically select the most appropriate image for a given organism (as <a href="https://www.ncbi.nlm.nih.gov/taxonomy">NCBI taxonomy</a> identifier) and a list of subcellular locations (as <a href="http://geneontology.org/">Gene Ontology</a> cellular component or <a href="https://www.uniprot.org/locations/">UniProt</a> subcellular location identifiers) and highlight those locations on the image. It is implemented in native JavaScript and can be styled as desired by defining an HTML5 template. The code and technical documentation are available at <a href="https://www.npmjs.com/package/%40swissprot/swissbiopics-visualizer">npmjs.com</a>. We welcome requests to extend the SwissBioPics image library and improve programmatic access to it.</p>
+
+<h3 id="License__amp__Disclaimer">License &amp; Disclaimer</h3>
+
+<p><strong>License</strong></p>
+
+<p>The images are licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) License</a>. This means that you are free to copy, distribute, display and commercially use the images as long as you credit SwissBioPics as the source.</p>
+
+<p><strong>Disclaimer</strong></p>
+
+<p>We do not guarantee the accuracy of the data and disclaim liability for any damages resulting from their use. All data are provided for research, educational and informational purposes only. They are not intended to be used for medical purposes such as diagnosis, treatment or care.</p>
+
+<p><strong>Privacy</strong></p>
+
+<p>See the <a href="https://www.sib.swiss/privacy-policy">SIB Privacy Policy</a>.</p>
+
+<h3 id="Acknowledgements">Acknowledgements</h3>
+
+<p>SwissBioPics is brought to you by the <a href="https://www.sib.swiss/alan-bridge-group">Swiss-Prot group</a> of the <a href="https://www.sib.swiss">SIB Swiss Institute of Bioinformatics</a> with support from the Swiss Federal Government through the <a href="https://www.sbfi.admin.ch/sbfi/en/home/seri/seri.html">State Secretariat for Education, Research and Innovation</a> (SERI).</p></div>
+        </div>
+                    </div>
+                </div>
+                </div>
+
+                <div id="sib_footer">
+                    <div id="sib_footer_content">
+                        <div property="creator" typeof="NGO">
+                            SwissBioPics is operated by the <a href="https://www.sib.swiss/alan-bridge-group" property="url" class="external-link" target="_blank"><span property="name">Swiss-Prot group</span></a> of the <a href="https://www.sib.swiss" property="url" class="external-link" target="_blank">SIB Swiss Institute of Bioinformatics</a>
+                            &nbsp;|&nbsp;
+                            <a href="https://www.swissbiopics.org/help#License__amp__Disclaimer" class="external-link" target="_blank" rel="nofollow noopener">License &amp; Disclaimer</a>
+                            &nbsp;|&nbsp;
+                            <a href="https://www.sib.swiss/privacy-policy" class="external-link" target="_blank" rel="nofollow noopener">Privacy Policy</a>
+                        </div>
+                        <div id="sib_footer_right">
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </html>

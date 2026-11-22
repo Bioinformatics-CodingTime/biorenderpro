@@ -1,0 +1,18 @@
+{
+  "repository": "resolvetosavelives/healthicons",
+  "ref": "main",
+  "tree_sha": "fe100687bdbb0bb99220fc4ec752a515d19d1dbc",
+  "tree_url": "https://api.github.com/repos/resolvetosavelives/healthicons/git/trees/main?recursive=1",
+  "evidence": [
+    {
+      "url": "https://raw.githubusercontent.com/resolvetosavelives/healthicons/main/LICENSE",
+      "path": "notices/license-audit/official/health--LICENSE",
+      "sha256": "d36196c6c2b0a983415778adddf81bfe63c51f408e707a36fa2b029d65e92d06"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/resolvetosavelives/healthicons/main/README.md",
+      "path": "notices/license-audit/official/health--README.md",
+      "sha256": "29dd4bef9777a34cdf452e73879f4814319856fd258c02a7654efd00d17cf1a9"
+    }
+  ]
+}

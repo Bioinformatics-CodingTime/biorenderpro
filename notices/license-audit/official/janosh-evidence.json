@@ -1,0 +1,18 @@
+{
+  "repository": "janosh/diagrams",
+  "ref": "main",
+  "tree_sha": "7a79b3114e201fad9b6785e936eab859d1bc8c12",
+  "tree_url": "https://api.github.com/repos/janosh/diagrams/git/trees/main?recursive=1",
+  "evidence": [
+    {
+      "url": "https://raw.githubusercontent.com/janosh/diagrams/main/license",
+      "path": "notices/license-audit/official/janosh--license",
+      "sha256": "f519d155d7ed90bd0e8e3ee2a669b70d9ad9f03fa532e008b1b397769f1f175b"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/janosh/diagrams/main/readme.md",
+      "path": "notices/license-audit/official/janosh--readme.md",
+      "sha256": "b3eeb48938e4d3569d12824e92eb959f8d8260aab0208e1b09a6f77e4539e2e1"
+    }
+  ]
+}

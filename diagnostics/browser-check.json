@@ -1,15 +1,11 @@
 {
-  "catalog_entries": 47200,
-  "first_page_images": 60,
-  "sampled_images": 115,
-  "failed_sample_images": [],
-  "page_errors": [],
+  "catalog_entries": 26407,
+  "current_run": "Browser launch blocked by macOS process permission; DOM harness passed; previous full-browser report archived separately",
+  "browser_verified": false,
   "checks": [
+    "DOM keyword search",
+    "source and license filters",
     "paging",
-    "monocyte search",
-    "actual local SVG opened",
-    "AI and source and license filtering",
-    "empty search",
-    "390px mobile layout"
+    "metadata completeness"
   ]
 }

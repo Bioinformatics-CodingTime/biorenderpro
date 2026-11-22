@@ -1,0 +1,18 @@
+{
+  "repository": "googlefonts/noto-emoji",
+  "ref": "v2026-09-24-unicode18_0",
+  "tree_sha": "e20cbc2bbec1926686be9f9bee7d1d2cfa1fea0e",
+  "tree_url": "https://api.github.com/repos/googlefonts/noto-emoji/git/trees/v2026-09-24-unicode18_0?recursive=1",
+  "evidence": [
+    {
+      "url": "https://raw.githubusercontent.com/googlefonts/noto-emoji/v2026-09-24-unicode18_0/LICENSE",
+      "path": "notices/license-audit/official/noto--LICENSE",
+      "sha256": "500bb1ccf43df7bbb522112f9133a52b16e1c35e809632f5d8609b179152de5b"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/googlefonts/noto-emoji/v2026-09-24-unicode18_0/README.md",
+      "path": "notices/license-audit/official/noto--README.md",
+      "sha256": "1ae0343308fe8c7e6e679cd12688df7586aa87df286be19d8bb2969b8abcac64"
+    }
+  ]
+}

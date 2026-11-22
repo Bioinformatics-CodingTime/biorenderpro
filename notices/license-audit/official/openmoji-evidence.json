@@ -1,0 +1,23 @@
+{
+  "repository": "hfg-gmuend/openmoji",
+  "ref": "master",
+  "tree_sha": "3e01de523ddefe9c5e46a7765b15efef04bf9002",
+  "tree_url": "https://api.github.com/repos/hfg-gmuend/openmoji/git/trees/master?recursive=1",
+  "evidence": [
+    {
+      "url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/LICENSE.txt",
+      "path": "notices/license-audit/official/openmoji--LICENSE.txt",
+      "sha256": "5e436ff8ffbb77d8607220e9bce20c8915d860010feeb6c1ebef5a85688e9b39"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/README.md",
+      "path": "notices/license-audit/official/openmoji--README.md",
+      "sha256": "615dced330c529a6cb064b3ba8d7485ade23ec5cc09dabae753d21d71cae7c0f"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/helpers/LICENSE.txt",
+      "path": "notices/license-audit/official/openmoji--helpers__LICENSE.txt",
+      "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+    }
+  ]
+}

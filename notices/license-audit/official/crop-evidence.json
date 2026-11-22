@@ -1,0 +1,13 @@
+{
+  "repository": "openfarmcc/open-crop-icons",
+  "ref": "d41f1197a14bb82f12037dc47585152ae1e3074f",
+  "tree_sha": "d41f1197a14bb82f12037dc47585152ae1e3074f",
+  "tree_url": "https://api.github.com/repos/openfarmcc/open-crop-icons/git/trees/d41f1197a14bb82f12037dc47585152ae1e3074f?recursive=1",
+  "evidence": [
+    {
+      "url": "https://raw.githubusercontent.com/openfarmcc/open-crop-icons/d41f1197a14bb82f12037dc47585152ae1e3074f/README.md",
+      "path": "notices/license-audit/official/crop--README.md",
+      "sha256": "bc809d73d7a23331dffab0d9c12c6e69531f82050b445c6a294156fee44a4d2e"
+    }
+  ]
+}
