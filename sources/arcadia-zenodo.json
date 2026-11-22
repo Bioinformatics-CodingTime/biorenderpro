@@ -1,0 +1,156 @@
+{
+  "created": "2026-01-28T20:09:05.854843+00:00",
+  "modified": "2026-01-28T20:11:06.318327+00:00",
+  "id": 18395998,
+  "conceptrecid": "17203577",
+  "doi": "10.5281/zenodo.18395998",
+  "conceptdoi": "10.5281/zenodo.17203577",
+  "doi_url": "https://doi.org/10.5281/zenodo.18395998",
+  "metadata": {
+    "title": "Free organism illustration library",
+    "doi": "10.5281/zenodo.18395998",
+    "publication_date": "2026-01-28",
+    "description": "<p>This library includes image files for a variety of organisms.</p>\n<p>We include a silhouette (SVG), tricolor stroke (SVG), and a raster (PNG) file for most organisms. All files have a transparent background.</p>\n<p>All images are released under CC0, which has no usage restrictions. That said, feel free to cite the associated pub, \"<a href=\"https://doi.org/10.57844/arcadia-4gbv-pzkv\" target=\"_blank\" rel=\"noopener\">A free, open-access library of high-quality organism illustrations for science communication</a>,\" to help others find this resource.&nbsp;</p>\n<p>All included organisms are listed below. Species marked with an asterisk were adapted from PhyloPic silhouettes.</p>\n<ul>\n<li><em>Abeoforma whisleri</em></li>\n<li><em>Aedes aegypti *</em></li>\n<li><em>Agaricus bisporus *</em></li>\n<li><em>Amorphochlora amoebiformis<br></em></li>\n<li><em>Anolis carolinensis<br></em></li>\n<li><em>Arabidopsis thaliana<br></em></li>\n<li><em>Aspergillus nidulans *</em></li>\n<li><em>Bathycoccus prasinos<br></em></li>\n<li><em>Bodo saltans<br></em></li>\n<li><em>Caenorhabditis elegans<br></em></li>\n<li><em>Callithrix jacchus *</em></li>\n<li><em>Callorhinchus milii *</em></li>\n<li><em>Candida albicans<br></em></li>\n<li><em>Carlito syrichta<br></em></li>\n<li><em>Chlamydomonas reinhardtii<br></em></li>\n<li><em>Chlorella vulgaris<br></em></li>\n<li><em>Ciona intestinalis<br></em></li>\n<li><em>Clytia hemisphaerica<br></em></li>\n<li><em>Danio rerio<br></em></li>\n<li><em>Dictyostelium discoideum<br></em></li>\n<li><em>Diplonema papillatum *</em></li>\n<li><em>Drosophila melanogaster<br></em></li>\n<li><em>Entamoeba histolytica<br></em></li>\n<li><em>Escherichia coli<br></em></li>\n<li><em>Euglena gracilis<br></em></li>\n<li><em>Exaiptasia diaphana<br></em></li>\n<li><em>Gallus gallus domesticus<br></em></li>\n<li><em>Giardia intestinalis<br></em></li>\n<li><em>Hofstenia miamia<br></em></li>\n<li><em>Homo sapiens</em></li>\n<li><em>Human immunodeficiency virus<br></em></li>\n<li><em>Hydra vulgaris<br></em></li>\n<li><em>Hypsibius dujardini<br></em></li>\n<li><em>Influenza virus<br></em></li>\n<li><em>Isochrysis galbana<br></em></li>\n<li><em>Macaca mulatta *</em></li>\n<li><em>Microcebus murinus<br></em></li>\n<li><em>Micromonas commoda<br></em></li>\n<li><em>Mnemiopsis leidyi<br></em></li>\n<li><em>Monosiga brevicollis<br></em></li>\n<li><em>Mus musculus<br></em></li>\n<li><em>Naegleria gruberi<br></em></li>\n<li><em>Nannochloropsis sp.<br></em></li>\n<li><em>Nematostella vectensis<br></em></li>\n<li><em>Neurospora crassa<br></em></li>\n<li><em>Ostreococcus tauri<br></em></li>\n<li><em>Pan troglodytes *</em></li>\n<li><em>Paramecium tetraurelia<br></em></li>\n<li><em>Penicillium chrysogenum<br></em></li>\n<li><em>Perkinsus marinus *</em></li>\n<li><em>Petromyzon marinus<br></em></li>\n<li><em>Phaeodactylum tricornutum<br></em></li>\n<li><em>Plasmodium falciparum<br></em></li>\n<li><em>Porphyra yezoensis<br></em></li>\n<li><em>Pristionchus pacificus<br></em></li>\n<li><em>Rattus norvegicus<br></em></li>\n<li><em>Saccharomyces cerevisiae<br></em></li>\n<li><em>Salpingoeca rosetta<br></em></li>\n<li><em>SARS-CoV-2<br></em></li>\n<li><em>Schistosoma mansoni<br></em></li>\n<li><em>Schizosaccharomyces pombe<br></em></li>\n<li><em>Schmidtea mediterranea<br></em></li>\n<li><em>Sphaeroforma arctica<br></em></li>\n<li><em>Sus scrofa domestica<br></em></li>\n<li><em>Symbiodinium sp.<br></em></li>\n<li><em>Taeniopygia guttata *</em></li>\n<li><em>Tetrahymena thermophila<br></em></li>\n<li><em>Tetraselmis striata<br></em></li>\n<li><em>Ustilago maydis<br></em></li>\n<li><em>Volvox carteri<br></em></li>\n<li><em>Xenopus tropicalis<br></em></li>\n<li><em>Yarrowia lipolytica<br></em></li>\n</ul>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Arcadia Science",
+        "affiliation": null
+      }
+    ],
+    "contributors": [
+      {
+        "name": "Bell, Audrey",
+        "affiliation": "Arcadia Science",
+        "type": "Other",
+        "orcid": "0009-0008-2270-1613"
+      },
+      {
+        "name": "Hochstrasser, Megan",
+        "affiliation": "Arcadia Science",
+        "type": "Other",
+        "orcid": "0000-0002-4404-078X"
+      },
+      {
+        "name": "Roth, Robert",
+        "affiliation": "Arcadia Science",
+        "type": "Other",
+        "orcid": "0000-0003-2604-1866"
+      },
+      {
+        "name": "Wright, Greg",
+        "affiliation": "Arcadia Science",
+        "type": "Other"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.57844/arcadia-4gbv-pzkv",
+        "relation": "isSupplementTo",
+        "resource_type": "publication",
+        "scheme": "doi"
+      }
+    ],
+    "dates": [
+      {
+        "type": "available"
+      },
+      {
+        "type": "updated",
+        "description": "Changes to files for: all Hydra vulgaris, all Nematostella vectensis. SVG silhouette files for: Nematostella vectensis, Hydra vulgaris. Raster files for: Bathycoccus prasinos, Dictyostelium discoideum, Microcebus murinus, Ostreococcus tauri, Plasmodium falciparum, Symbiodinium sp."
+      },
+      {
+        "type": "updated",
+        "description": "Changes to files for: all Neurospora crassa, all Hydra vulgaris. Added raster, tricolor + stroke, silhouette, and neuron for Homo sapiens. Moved 'Additional images' into Raster PNGs directory. Added animated GIFs directory."
+      }
+    ],
+    "version": "v1.2",
+    "language": "eng",
+    "resource_type": {
+      "title": "Drawing",
+      "type": "image",
+      "subtype": "drawing"
+    },
+    "license": {
+      "id": "cc-zero"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 2,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "17203577"
+          }
+        }
+      ]
+    }
+  },
+  "title": "Free organism illustration library",
+  "links": {
+    "self": "https://zenodo.org/api/records/18395998",
+    "self_html": "https://zenodo.org/records/18395998",
+    "preview_html": "https://zenodo.org/records/18395998?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.18395998",
+    "self_doi": "https://doi.org/10.5281/zenodo.18395998",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.18395998",
+    "reserve_doi": "https://zenodo.org/api/records/18395998/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/17203577",
+    "parent_html": "https://zenodo.org/records/17203577",
+    "parent_doi": "https://doi.org/10.5281/zenodo.17203577",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.17203577",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:18395998/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:18395998/sequence/default",
+    "files": "https://zenodo.org/api/records/18395998/files",
+    "media_files": "https://zenodo.org/api/records/18395998/media-files",
+    "latest": "https://zenodo.org/api/records/18395998/versions/latest",
+    "latest_html": "https://zenodo.org/records/18395998/latest",
+    "versions": "https://zenodo.org/api/records/18395998/versions",
+    "draft": "https://zenodo.org/api/records/18395998/draft",
+    "access_links": "https://zenodo.org/api/records/18395998/access/links",
+    "access_grants": "https://zenodo.org/api/records/18395998/access/grants",
+    "access_users": "https://zenodo.org/api/records/18395998/access/users",
+    "access_request": "https://zenodo.org/api/records/18395998/access/request",
+    "access": "https://zenodo.org/api/records/18395998/access",
+    "communities": "https://zenodo.org/api/records/18395998/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/18395998/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/18395998/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/18395998/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/18395998/quota-increase",
+    "requests": "https://zenodo.org/api/records/18395998/requests"
+  },
+  "updated": "2026-01-28T20:11:06.318327+00:00",
+  "recid": "18395998",
+  "revision": 8,
+  "files": [
+    {
+      "id": "607b0b98-4d58-4e7a-bc5d-c910050eccba",
+      "key": "arcadia-organism-library-v1.2.zip",
+      "size": 94501440,
+      "checksum": "md5:3e6c0eeced4052e75bff3aee0fc34631",
+      "links": {
+        "self": "https://zenodo.org/api/records/18395998/files/arcadia-organism-library-v1.2.zip/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1218929"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 625,
+    "unique_downloads": 477,
+    "views": 1639,
+    "unique_views": 1567,
+    "version_downloads": 227,
+    "version_unique_downloads": 98,
+    "version_unique_views": 483,
+    "version_views": 508
+  },
+  "state": "done",
+  "submitted": true
+}

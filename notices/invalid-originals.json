@@ -1,0 +1,18 @@
+[
+  {
+    "path": "icons/Bioicons-original/cc-by-4.0/Human_physiology/DBCLS/Anterior_view_of_ligaments_of_pelvis.svg",
+    "error": "junk after document element: line 3993, column 0"
+  },
+  {
+    "path": "icons/Bioicons-original/cc-by-4.0/Viruses/DBCLS/Polyomaviridae.svg",
+    "error": "no element found: line 1, column 0"
+  },
+  {
+    "path": "icons/Bioicons-original/cc-by-4.0/Viruses/DBCLS/SARS-CoV-2.svg",
+    "error": "no element found: line 1, column 0"
+  },
+  {
+    "path": "icons/Bioicons-original/cc-by-4.0/Viruses/DBCLS/virus.svg",
+    "error": "no element found: line 1, column 0"
+  }
+]

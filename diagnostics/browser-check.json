@@ -1,0 +1,15 @@
+{
+  "catalog_entries": 47200,
+  "first_page_images": 60,
+  "sampled_images": 115,
+  "failed_sample_images": [],
+  "page_errors": [],
+  "checks": [
+    "paging",
+    "monocyte search",
+    "actual local SVG opened",
+    "AI and source and license filtering",
+    "empty search",
+    "390px mobile layout"
+  ]
+}

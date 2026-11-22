@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+icons/
+*.zip
+*.zip.part
+expanded-catalog.json
+sources/*.zip
+sources/*.sqlite*
+sources/*-site.js

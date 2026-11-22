@@ -1,0 +1,27 @@
+[
+  {
+    "path": "icons/expanded/bioicons/cc-0/Epigenetics/single_nucleosome.svg",
+    "source": "https://bioicons.com",
+    "error": "Active content in SVG"
+  },
+  {
+    "path": "icons/expanded/bioicons/cc-0/Epigenetics/transcription_machinery.svg",
+    "source": "https://bioicons.com",
+    "error": "Active content in SVG"
+  },
+  {
+    "path": "icons/expanded/bioicons/cc-by-4.0/Human_physiology/Anterior_view_of_ligaments_of_pelvis.svg",
+    "source": "https://bioicons.com",
+    "error": "junk after document element: line 3993, column 0"
+  },
+  {
+    "path": "icons/expanded/scidraw/c4b59809-7b67-4c1b-802c-88c844b26a07.svg",
+    "source": "https://scidraw.io/drawing/reef-fish-retina-e44ac4f6",
+    "error": "junk after document element: line 289, column 6"
+  },
+  {
+    "path": "icons/expanded/phylopic/f3397331-48fd-400c-a686-30d3ad3f3073.svg",
+    "source": "https://www.phylopic.org/images/f3397331-48fd-400c-a686-30d3ad3f3073",
+    "error": "duplicate attribute: line 4, column 37"
+  }
+]
